@@ -1,4 +1,4 @@
-smtplib
+smtplib version: 8.8.4
 os
 random
 datetime
