@@ -1,5 +1,1 @@
-smtplib; 8.8.4
-os
-random
-datetime
-pandas
+pandas==2.2.2
